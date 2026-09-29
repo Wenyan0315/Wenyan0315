@@ -2,7 +2,7 @@
 
 I'm teaching myself to build AI products — by building, in public.
 
-My main project is **[facta](https://github.com/Wenyan0315/facta)** — a personal AI agent written **from scratch**: LLM gateway, RAG over my own notes, tool calling, durable memory. No agent frameworks, every layer hand-written — the goal is to understand every layer before shipping anything on top of it.
+Right now I'm building **[facta](https://github.com/Wenyan0315/facta)**, a personal AI agent written **from scratch**: LLM loop, RAG over my own notes, tool calling, persistent memory. No frameworks — the goal is to understand every layer before shipping anything on top of it.
 
 ### What I'm into
 
