@@ -2,7 +2,7 @@
 
 I'm teaching myself to build AI products — by building, in public.
 
-Right now I'm writing a personal AI agent **from scratch**: LLM loop, RAG over my own notes, tool calling, persistent memory. No frameworks — the goal is to understand every layer before shipping anything on top of it.
+My main project is **[facta](https://github.com/Wenyan0315/facta)** — a personal AI agent written **from scratch**: LLM gateway, RAG over my own notes, tool calling, durable memory. No agent frameworks, every layer hand-written — the goal is to understand every layer before shipping anything on top of it.
 
 ### What I'm into
 
@@ -12,12 +12,13 @@ Right now I'm writing a personal AI agent **from scratch**: LLM loop, RAG over m
 
 ### Currently
 
-- 🔨 Building: a from-scratch personal agent (private for now, open source coming)
+- 🔨 Building: **[facta](https://github.com/Wenyan0315/facta)** — a from-scratch personal AI agent (now open source): ReAct loop, layered memory, RAG knowledge layer, 9 built-in tool families + MCP, crash self-recovery, CLI + Web UI
 - 📖 Learning in public: [12-week systematic AI curriculum](https://github.com/Wenyan0315/learning-notes/tree/main/notes/ai-system-12-weeks) — ML foundations → deep learning → CNN/RNN/Transformer (day 38/84, in progress)
 - 🔬 Weekly deep-dives: one high-quality repo or paper per week
 
 ### Projects
 
+- **[facta](https://github.com/Wenyan0315/facta)** — a personal AI agent built from scratch: ReAct loop, layered memory, RAG knowledge layer (BGE-M3 + ChromaDB + knowledge graph), 9 built-in tool families + MCP client, crash self-recovery, safety gates, CLI + Web UI. No agent frameworks — every layer hand-written and replaceable
 - **[learning-notes](https://github.com/Wenyan0315/learning-notes)** — learning in public（中文笔记）: a 12-week AI study series with full derivations, code and self-checklists, plus weekly repo deep-dives and paper write-ups
 - **[md-reader](https://github.com/Wenyan0315/md-reader)** — local-first Markdown reader, packagable as a macOS desktop app (React + Electron)
 
